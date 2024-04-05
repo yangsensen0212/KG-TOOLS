@@ -1,0 +1,302 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "冲击地压事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "冲击地压事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "2名",
+            "category": 5
+        },
+        {
+            "id": 4,
+            "name": "1303泄水巷",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "name": "山东郓城",
+            "category": 4
+        },
+        {
+            "id": 6,
+            "name": "20日",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "10月20日23时",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "21日下午15时20分许",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "17时15分许",
+            "category": 1
+        },
+        {
+            "id": 10,
+            "name": "2006年9月底",
+            "category": 1
+        },
+        {
+            "id": 11,
+            "name": "2016年6月",
+            "category": 1
+        },
+        {
+            "id": 12,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 13,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 14,
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": 15,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 16,
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": 17,
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": 18,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 19,
+            "name": "龙郓煤业",
+            "category": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 11
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 2,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 13,
+            "target": 6
+        },
+        {
+            "source": 14,
+            "target": 6
+        },
+        {
+            "source": 15,
+            "target": 6
+        },
+        {
+            "source": 16,
+            "target": 6
+        },
+        {
+            "source": 17,
+            "target": 6
+        },
+        {
+            "source": 18,
+            "target": 6
+        },
+        {
+            "source": 19,
+            "target": 6
+        },
+        {
+            "source": 20,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 13
+        },
+        {
+            "source": 1,
+            "target": 14
+        },
+        {
+            "source": 1,
+            "target": 15
+        },
+        {
+            "source": 1,
+            "target": 16
+        },
+        {
+            "source": 1,
+            "target": 17
+        },
+        {
+            "source": 1,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 19
+        },
+        {
+            "source": 1,
+            "target": 20
+        },
+        {
+            "source": 2,
+            "target": 13
+        },
+        {
+            "source": 2,
+            "target": 14
+        },
+        {
+            "source": 2,
+            "target": 15
+        },
+        {
+            "source": 2,
+            "target": 16
+        },
+        {
+            "source": 2,
+            "target": 17
+        },
+        {
+            "source": 2,
+            "target": 18
+        },
+        {
+            "source": 2,
+            "target": 19
+        },
+        {
+            "source": 2,
+            "target": 20
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 4
+        }
+    ],
+    "categories": [
+        {
+            "name": "事故"
+        },
+        {
+            "name": "时间"
+        },
+        {
+            "name": "矿山"
+        },
+        {
+            "name": "位置"
+        },
+        {
+            "name": "城市"
+        },
+        {
+            "name": "伤亡"
+        }
+    ]
+}

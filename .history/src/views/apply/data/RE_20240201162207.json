@@ -1,0 +1,3362 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "冲击地压事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "冲击地压事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "2名",
+            "category": 5
+        },
+        {
+            "id": 4,
+            "name": "1303泄水巷",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "name": "山东郓城",
+            "category": 4
+        },
+        {
+            "id": 6,
+            "name": "20日",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "10月20日23时",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "21日下午15时20分许",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "17时15分许",
+            "category": 1
+        },
+        {
+            "id": 10,
+            "name": "2006年9月底",
+            "category": 1
+        },
+        {
+            "id": 11,
+            "name": "2016年6月",
+            "category": 1
+        },
+        {
+            "id": 12,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 13,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 14,
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": 15,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 16,
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": 17,
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": 18,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 19,
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "煤与瓦斯突出事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "生产安全事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "修文县",
+            "category": 4
+        },
+        {
+            "id": 4,
+            "name": "贵阳市",
+            "category": 4
+        },
+        {
+            "id": 5,
+            "name": "贵阳市",
+            "category": 4
+        },
+        {
+            "id": 6,
+            "name": "2019年7月29日",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "7月29日",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "30日",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": 11,
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": 12,
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "推拉杆及哑铃销断裂事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "81502综放面",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "81502综放工作面",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "2011年11月15日",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "保德矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "钻杆伤人事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "东三+541B1+2工作面B2巷",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "东三+541B2巷",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "2012年6月27日",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "13点20分",
+            "category": 1
+        },
+        {
+            "id": 0,
+            "name": "水害事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "水害事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": 4,
+            "name": "郴州市永兴县",
+            "category": 4
+        },
+        {
+            "id": 5,
+            "name": "2007年7月18日20时30分",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "2007年7月18日20：30时",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "庙背冲二矿",
+            "category": 2
+        },
+        {
+            "id": 8,
+            "name": "庙背冲二矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "5人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "2018年5月9日2时30分",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "宝电群力煤矿",
+            "category": 2
+        },
+        {
+            "id": 5,
+            "name": "宝电群力煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 3,
+            "name": "86人",
+            "category": 5
+        },
+        {
+            "id": 4,
+            "name": "86名",
+            "category": 5
+        },
+        {
+            "id": 5,
+            "name": "1046采煤工作面",
+            "category": 3
+        },
+        {
+            "id": 6,
+            "name": "1048风巷",
+            "category": 3
+        },
+        {
+            "id": 7,
+            "name": "1048风巷",
+            "category": 3
+        },
+        {
+            "id": 8,
+            "name": "1048机巷",
+            "category": 3
+        },
+        {
+            "id": 9,
+            "name": "590M大巷",
+            "category": 3
+        },
+        {
+            "id": 10,
+            "name": "1046采煤工作面",
+            "category": 3
+        },
+        {
+            "id": 11,
+            "name": "1046采煤工作面",
+            "category": 3
+        },
+        {
+            "id": 12,
+            "name": "1048风巷",
+            "category": 3
+        },
+        {
+            "id": 13,
+            "name": "改造切眼",
+            "category": 3
+        },
+        {
+            "id": 14,
+            "name": "开切眼掘进工作面",
+            "category": 3
+        },
+        {
+            "id": 15,
+            "name": "改造切眼",
+            "category": 3
+        },
+        {
+            "id": 16,
+            "name": "1048机巷",
+            "category": 3
+        },
+        {
+            "id": 17,
+            "name": "开切眼掘进工作面",
+            "category": 3
+        },
+        {
+            "id": 18,
+            "name": "590M大巷",
+            "category": 3
+        },
+        {
+            "id": 19,
+            "name": "2003年5月13日16时03分",
+            "category": 1
+        },
+        {
+            "id": 20,
+            "name": "芦岭煤矿",
+            "category": 2
+        },
+        {
+            "id": 21,
+            "name": "芦岭煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "生产安全事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "一分区回风巷",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "三四采区",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "2020年11月12日22时",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "金凤煤矿",
+            "category": 2
+        },
+        {
+            "id": 6,
+            "name": "金凤煤矿",
+            "category": 2
+        },
+        {
+            "id": 7,
+            "name": "金凤煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "生产安全事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "3人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "曲阜市",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": "2014年8月23日10时15分许",
+            "category": 1
+        },
+        {
+            "id": 0,
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "14采区",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "宜宾市",
+            "category": 4
+        },
+        {
+            "id": 4,
+            "name": "2019年3月13日19时19分",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "鲁班山北矿",
+            "category": 2
+        },
+        {
+            "id": 6,
+            "name": "鲁班山北矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "马蒂尔机尾滚筒损坏事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "81502工作面",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "81502工作面",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "2011年9月6日",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "81502工作面",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "2011年9月6日早班9时30分左右",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "保德矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "运输事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "广西罗城",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": "2020年12月23日16：35左右",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "北陵山煤矿",
+            "category": 2
+        },
+        {
+            "id": 5,
+            "name": "北陵山煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "冷水江市",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": "2008年12月27日13时10分",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "150m南翼回风巷",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "1983年",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "金盆岭煤矿",
+            "category": 2
+        },
+        {
+            "id": 7,
+            "name": "金盆岭煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "冒顶事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "3人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "新井措施巷",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "象山新井措施巷",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "7月28日11时16分",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "1993年7月19日",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "象山煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "N2412综采工作面",
+            "category": 3
+        },
+        {
+            "id": 1,
+            "name": "N2412工作面",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "2009年1月14日四点",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "22：00",
+            "category": 1
+        },
+        {
+            "id": 0,
+            "name": "伤亡事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "选煤楼",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "2019年9月1日3时50分许",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "海石湾煤矿",
+            "category": 2
+        },
+        {
+            "id": 5,
+            "name": "海石湾煤矿",
+            "category": 2
+        },
+        {
+            "id": 6,
+            "name": "海石湾煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "瓦斯爆炸",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "瓦斯爆炸",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "624水平煤仓",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "624水平煤仓",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "name": "2001年11月18日9时50分",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "七五生建煤矿",
+            "category": 2
+        },
+        {
+            "id": 7,
+            "name": "七五生建煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "煤与瓦斯突出事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "18人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "2152回采工作面",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "湖南娄底市涟源市",
+            "category": 4
+        },
+        {
+            "id": 5,
+            "name": "湖南娄底市涟源市",
+            "category": 4
+        },
+        {
+            "id": 6,
+            "name": "2008年",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "12月17日15时15分",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "挂子岩煤矿",
+            "category": 2
+        },
+        {
+            "id": 9,
+            "name": "挂子岩煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "水害事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "13人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "常宁市",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": "2009年3月21日16时15分",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "三角塘镇企业办煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "透水事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "13人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "乌海市",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": " 2004年4月30日",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "鑫源煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "32人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "云南省曲靖市富源县",
+            "category": 4
+        },
+        {
+            "id": 4,
+            "name": "2006年11月25日16时55分",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "2003年7月",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "2004年3月",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "2005年12月",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "昌源煤矿",
+            "category": 2
+        },
+        {
+            "id": 9,
+            "name": "昌源煤",
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "昌源煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "洪水倒灌淹井事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "大竹县",
+            "category": 4
+        },
+        {
+            "id": 2,
+            "name": "2021年8月8日5时15分",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "大枫树煤矿",
+            "category": 2
+        },
+        {
+            "id": 4,
+            "name": "大枫树煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "掘锚机截割头漏油事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "22113运顺",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "2011年5月26日",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "寸草塔二矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "采煤机电气故障",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "43306面",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "43306综采工作面",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "43306工作面",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "43306工作面",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "name": "2011年7月5日",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "7月5日凌晨1：30",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "07：20分",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "09:40",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "榆家梁矿",
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "榆家梁煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "Z14-2W01综采工作面",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "Z14-2W01综采工作面回风顺槽",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "托克逊县",
+            "category": 4
+        },
+        {
+            "id": 5,
+            "name": "2022年2月11日21时35分",
+            "category": 1
+        },
+        {
+            "id": 6,
+            "name": "盘吉煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "突水事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "11人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "六平巷",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "湖南省邵阳市邵东县",
+            "category": 4
+        },
+        {
+            "id": 4,
+            "name": "2002年6月22日11时50分",
+            "category": 1
+        },
+        {
+            "id": 0,
+            "name": "溃水溃沙事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "22402工作面",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "22402工作面",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "四盘区",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "22402综采工作面",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "name": "22403工作面",
+            "category": 3
+        },
+        {
+            "id": 6,
+            "name": "22401工作面",
+            "category": 3
+        },
+        {
+            "id": 7,
+            "name": "22402旺采工作面",
+            "category": 3
+        },
+        {
+            "id": 8,
+            "name": "2010年7月6日",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "哈拉沟煤矿",
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "哈拉沟煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "106m水平四石门探煤上山工作面",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "嘉禾县",
+            "category": 4
+        },
+        {
+            "id": 4,
+            "name": "嘉禾县",
+            "category": 4
+        },
+        {
+            "id": 5,
+            "name": "嘉禾县",
+            "category": 4
+        },
+        {
+            "id": 6,
+            "name": "2010年11月29日19时30分。",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "白石葫煤矿",
+            "category": 2
+        },
+        {
+            "id": 8,
+            "name": "白石葫煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "运输事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "机\n电事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 4,
+            "name": "15103回采工作面回风顺槽",
+            "category": 3
+        },
+        {
+            "id": 5,
+            "name": "15105综采工作面",
+            "category": 3
+        },
+        {
+            "id": 6,
+            "name": "2018年8月12日10时10分左右",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "2018年8月19日23时10分",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "恒泰皇后煤业",
+            "category": 2
+        },
+        {
+            "id": 9,
+            "name": "恒泰皇后煤业",
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "恒泰皇后煤业",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "倒链滑落伤人事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "2008年2月7日",
+            "category": 1
+        },
+        {
+            "id": 0,
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "九名",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "2003年10月12日22时40分",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "太来窑二号井",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "放炮事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "12采区",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "65石门掘进工作面",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "新化县",
+            "category": 4
+        },
+        {
+            "id": 5,
+            "name": "新化县",
+            "category": 4
+        },
+        {
+            "id": 6,
+            "name": "2009年4月6日15时55分",
+            "category": 1
+        },
+        {
+            "id": 7,
+            "name": "1984年",
+            "category": 1
+        },
+        {
+            "id": 8,
+            "name": "2006年4月",
+            "category": 1
+        },
+        {
+            "id": 9,
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": 10,
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": 11,
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": 12,
+            "name": "芦茅江煤矿",
+            "category": 2
+        },
+        {
+            "id": 13,
+            "name": "涟邵矿务局芦茅江煤矿二井",
+            "category": 2
+        },
+        {
+            "id": 14,
+            "name": "芦一井",
+            "category": 2
+        },
+        {
+            "id": 15,
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "东翼回风大巷",
+            "category": 3
+        },
+        {
+            "id": 1,
+            "name": "东翼回风大巷",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "吕梁汾阳市",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": "正升煤业",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "3B提升机过卷事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "主井",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "1982年10月18日",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "1982年10月18日",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "兴隆庄煤矿",
+            "category": 2
+        },
+        {
+            "id": 5,
+            "name": "兴隆庄煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "2004.7.12",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "name": "2004年7月12日",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "大平矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "溺水事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "4105皮带顺槽",
+            "category": 3
+        },
+        {
+            "id": 3,
+            "name": "合山市",
+            "category": 4
+        },
+        {
+            "id": 4,
+            "name": "2020年10月09日8时07分",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "贵能三矿",
+            "category": 2
+        },
+        {
+            "id": 6,
+            "name": "贵能三矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "木石煤矿",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "特大溃水事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "山东枣庄滕州市",
+            "category": 4
+        },
+        {
+            "id": 3,
+            "name": "2003年7月26日21时40分",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "name": "木石煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "冒顶事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "冒顶事故",
+            "category": 0
+        },
+        {
+            "id": 2,
+            "name": "3人",
+            "category": 5
+        },
+        {
+            "id": 3,
+            "name": "西大巷",
+            "category": 3
+        },
+        {
+            "id": 4,
+            "name": "2003年4月4日4时42分",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "古汉山煤矿",
+            "category": 2
+        },
+        {
+            "id": 6,
+            "name": "古汉山矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "突水事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "东大巷",
+            "category": 3
+        },
+        {
+            "id": 2,
+            "name": "2005年10月19日",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "新峰一矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "运输事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": 2,
+            "name": "2022年11月28日17时37分",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "新庄煤矿",
+            "category": 2
+        },
+        {
+            "id": 4,
+            "name": "新庄煤矿",
+            "category": 2
+        },
+        {
+            "id": 0,
+            "name": "煤与瓦斯突出事故",
+            "category": 0
+        },
+        {
+            "id": 1,
+            "name": "贵州省六盘水市",
+            "category": 4
+        },
+        {
+            "id": 2,
+            "name": "8月14日21时30分",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "过河口煤矿",
+            "category": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 11
+        },
+        {
+            "source": 12,
+            "target": 5
+        },
+        {
+            "source": 13,
+            "target": 5
+        },
+        {
+            "source": 14,
+            "target": 5
+        },
+        {
+            "source": 15,
+            "target": 5
+        },
+        {
+            "source": 16,
+            "target": 5
+        },
+        {
+            "source": 17,
+            "target": 5
+        },
+        {
+            "source": 18,
+            "target": 5
+        },
+        {
+            "source": 19,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 0,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 19
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 1,
+            "target": 13
+        },
+        {
+            "source": 1,
+            "target": 14
+        },
+        {
+            "source": 1,
+            "target": 15
+        },
+        {
+            "source": 1,
+            "target": 16
+        },
+        {
+            "source": 1,
+            "target": 17
+        },
+        {
+            "source": 1,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 19
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 3
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 10,
+            "target": 5
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 11,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 5
+        },
+        {
+            "source": 12,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 4
+        },
+        {
+            "source": 12,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 11
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 7,
+            "target": 4
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 19
+        },
+        {
+            "source": 1,
+            "target": 19
+        },
+        {
+            "source": 2,
+            "target": 19
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 0,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 11
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 1,
+            "target": 13
+        },
+        {
+            "source": 1,
+            "target": 14
+        },
+        {
+            "source": 1,
+            "target": 15
+        },
+        {
+            "source": 1,
+            "target": 16
+        },
+        {
+            "source": 1,
+            "target": 17
+        },
+        {
+            "source": 1,
+            "target": 18
+        },
+        {
+            "source": 2,
+            "target": 5
+        },
+        {
+            "source": 2,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 9
+        },
+        {
+            "source": 2,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 2,
+            "target": 13
+        },
+        {
+            "source": 2,
+            "target": 14
+        },
+        {
+            "source": 2,
+            "target": 15
+        },
+        {
+            "source": 2,
+            "target": 16
+        },
+        {
+            "source": 2,
+            "target": 17
+        },
+        {
+            "source": 2,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 1,
+            "target": 20
+        },
+        {
+            "source": 1,
+            "target": 21
+        },
+        {
+            "source": 2,
+            "target": 20
+        },
+        {
+            "source": 2,
+            "target": 21
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 6,
+            "target": 4
+        },
+        {
+            "source": 7,
+            "target": 3
+        },
+        {
+            "source": 7,
+            "target": 4
+        },
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 10,
+            "target": 3
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 3
+        },
+        {
+            "source": 11,
+            "target": 4
+        },
+        {
+            "source": 12,
+            "target": 3
+        },
+        {
+            "source": 12,
+            "target": 4
+        },
+        {
+            "source": 13,
+            "target": 3
+        },
+        {
+            "source": 13,
+            "target": 4
+        },
+        {
+            "source": 14,
+            "target": 3
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 15,
+            "target": 3
+        },
+        {
+            "source": 15,
+            "target": 4
+        },
+        {
+            "source": 16,
+            "target": 3
+        },
+        {
+            "source": 16,
+            "target": 4
+        },
+        {
+            "source": 17,
+            "target": 3
+        },
+        {
+            "source": 17,
+            "target": 4
+        },
+        {
+            "source": 18,
+            "target": 3
+        },
+        {
+            "source": 18,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 6,
+            "target": 2
+        },
+        {
+            "source": 7,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 9,
+            "target": 3
+        },
+        {
+            "source": 10,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 4,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 6,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 7,
+            "target": 3
+        },
+        {
+            "source": 7,
+            "target": 4
+        },
+        {
+            "source": 7,
+            "target": 5
+        },
+        {
+            "source": 8,
+            "target": 3
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 1,
+            "target": 8
+        },
+        {
+            "source": 1,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 10,
+            "target": 5
+        },
+        {
+            "source": 11,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 5
+        },
+        {
+            "source": 12,
+            "target": 4
+        },
+        {
+            "source": 12,
+            "target": 5
+        },
+        {
+            "source": 13,
+            "target": 4
+        },
+        {
+            "source": 13,
+            "target": 5
+        },
+        {
+            "source": 14,
+            "target": 4
+        },
+        {
+            "source": 14,
+            "target": 5
+        },
+        {
+            "source": 15,
+            "target": 4
+        },
+        {
+            "source": 15,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 3
+        }
+    ],
+    "categories": [
+        {
+            "name": "事故"
+        },
+        {
+            "name": "时间"
+        },
+        {
+            "name": "矿山"
+        },
+        {
+            "name": "位置"
+        },
+        {
+            "name": "城市"
+        },
+        {
+            "name": "伤亡"
+        }
+    ]
+}

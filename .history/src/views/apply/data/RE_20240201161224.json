@@ -1,0 +1,3362 @@
+{
+    "nodes": [
+        {
+            "id": "E-fa122114-99ab",
+            "name": "冲击地压事故",
+            "category": 0
+        },
+        {
+            "id": "E-738a85e9-857f",
+            "name": "冲击地压事故",
+            "category": 0
+        },
+        {
+            "id": "E-12ed3699-b5d7",
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": "E-0cd922a1-88df",
+            "name": "2名",
+            "category": 5
+        },
+        {
+            "id": "E-3454c0b4-bde6",
+            "name": "1303泄水巷",
+            "category": 3
+        },
+        {
+            "id": "E-5d66a458-ab34",
+            "name": "山东郓城",
+            "category": 4
+        },
+        {
+            "id": "E-78ac305c-bae5",
+            "name": "20日",
+            "category": 1
+        },
+        {
+            "id": "E-08ba3005-a602",
+            "name": "10月20日23时",
+            "category": 1
+        },
+        {
+            "id": "E-23565f4c-b438",
+            "name": "21日下午15时20分许",
+            "category": 1
+        },
+        {
+            "id": "E-9c68ff24-afbe",
+            "name": "17时15分许",
+            "category": 1
+        },
+        {
+            "id": "E-f101c9c0-af4f",
+            "name": "2006年9月底",
+            "category": 1
+        },
+        {
+            "id": "E-99eec153-a7e7",
+            "name": "2016年6月",
+            "category": 1
+        },
+        {
+            "id": "E-c881ddc2-992a",
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": "E-759bb48c-9555",
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": "E-725b345a-8058",
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-1c179849-b810",
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": "E-2528d5b0-9942",
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-7a439942-9c79",
+            "name": "郓城煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-d7f99cef-875b",
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": "E-b784643f-9953",
+            "name": "龙郓煤业",
+            "category": 2
+        },
+        {
+            "id": "E-238975fe-af3b",
+            "name": "煤与瓦斯突出事故",
+            "category": 0
+        },
+        {
+            "id": "E-042d03cc-b155",
+            "name": "生产安全事故",
+            "category": 0
+        },
+        {
+            "id": "E-78aca38c-a71d",
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": "E-870a6e7d-8659",
+            "name": "修文县",
+            "category": 4
+        },
+        {
+            "id": "E-09beb9c9-9303",
+            "name": "贵阳市",
+            "category": 4
+        },
+        {
+            "id": "E-8d9539bd-97c5",
+            "name": "贵阳市",
+            "category": 4
+        },
+        {
+            "id": "E-d7ad2d93-baf0",
+            "name": "2019年7月29日",
+            "category": 1
+        },
+        {
+            "id": "E-b9711fb1-8d88",
+            "name": "7月29日",
+            "category": 1
+        },
+        {
+            "id": "E-6940a7c6-8c39",
+            "name": "30日",
+            "category": 1
+        },
+        {
+            "id": "E-3dc5d250-9035",
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-c1cf7879-accf",
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-2908592a-9f2c",
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-ba17817b-8622",
+            "name": "龙窝煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-31999d0b-98d1",
+            "name": "推拉杆及哑铃销断裂事故",
+            "category": 0
+        },
+        {
+            "id": "E-23f7fb04-beba",
+            "name": "81502综放面",
+            "category": 3
+        },
+        {
+            "id": "E-1aed3268-a554",
+            "name": "81502综放工作面",
+            "category": 3
+        },
+        {
+            "id": "E-bc89251b-96d2",
+            "name": "2011年11月15日",
+            "category": 1
+        },
+        {
+            "id": "E-ad4bd31b-b80e",
+            "name": "保德矿",
+            "category": 2
+        },
+        {
+            "id": "E-9e49403c-b1fe",
+            "name": "钻杆伤人事故",
+            "category": 0
+        },
+        {
+            "id": "E-e4523f55-9c8b",
+            "name": "东三+541B1+2工作面B2巷",
+            "category": 3
+        },
+        {
+            "id": "E-8ff7b6ec-bcfb",
+            "name": "东三+541B2巷",
+            "category": 3
+        },
+        {
+            "id": "E-18594ff1-b196",
+            "name": "2012年6月27日",
+            "category": 1
+        },
+        {
+            "id": "E-da6f3743-b6df",
+            "name": "13点20分",
+            "category": 1
+        },
+        {
+            "id": "E-88166bdf-a2a9",
+            "name": "水害事故",
+            "category": 0
+        },
+        {
+            "id": "E-7b1e293e-837e",
+            "name": "水害事故",
+            "category": 0
+        },
+        {
+            "id": "E-b9197e13-9764",
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": "E-db5cf272-8b63",
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": "E-befc06dd-b11a",
+            "name": "郴州市永兴县",
+            "category": 4
+        },
+        {
+            "id": "E-1c622582-9d47",
+            "name": "2007年7月18日20时30分",
+            "category": 1
+        },
+        {
+            "id": "E-b4d57c72-8b3e",
+            "name": "2007年7月18日20：30时",
+            "category": 1
+        },
+        {
+            "id": "E-1cf34d80-bacc",
+            "name": "庙背冲二矿",
+            "category": 2
+        },
+        {
+            "id": "E-84965020-9e80",
+            "name": "庙背冲二矿",
+            "category": 2
+        },
+        {
+            "id": "E-d082e575-8083",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-54c9f43c-b5a0",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-327e2a6b-ac4f",
+            "name": "5人",
+            "category": 5
+        },
+        {
+            "id": "E-723026fb-bb08",
+            "name": "2018年5月9日2时30分",
+            "category": 1
+        },
+        {
+            "id": "E-d5d2ff01-807f",
+            "name": "宝电群力煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-405cdc48-95ad",
+            "name": "宝电群力煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-cc2a23f7-b2b4",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-76b17947-be73",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-3f8854f4-819c",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-efd11ac5-8086",
+            "name": "86人",
+            "category": 5
+        },
+        {
+            "id": "E-c6175a6f-a3c4",
+            "name": "86名",
+            "category": 5
+        },
+        {
+            "id": "E-5422e7b8-9a21",
+            "name": "1046采煤工作面",
+            "category": 3
+        },
+        {
+            "id": "E-f81009eb-9baf",
+            "name": "1048风巷",
+            "category": 3
+        },
+        {
+            "id": "E-738804a1-84a3",
+            "name": "1048风巷",
+            "category": 3
+        },
+        {
+            "id": "E-4ba9db14-a00c",
+            "name": "1048机巷",
+            "category": 3
+        },
+        {
+            "id": "E-42cf8234-980c",
+            "name": "590M大巷",
+            "category": 3
+        },
+        {
+            "id": "E-87e1f7bb-be3a",
+            "name": "1046采煤工作面",
+            "category": 3
+        },
+        {
+            "id": "E-491e7812-afbc",
+            "name": "1046采煤工作面",
+            "category": 3
+        },
+        {
+            "id": "E-9f9bae30-b7a5",
+            "name": "1048风巷",
+            "category": 3
+        },
+        {
+            "id": "E-31649da5-ab63",
+            "name": "改造切眼",
+            "category": 3
+        },
+        {
+            "id": "E-52a26660-965d",
+            "name": "开切眼掘进工作面",
+            "category": 3
+        },
+        {
+            "id": "E-5fc55e7e-86ec",
+            "name": "改造切眼",
+            "category": 3
+        },
+        {
+            "id": "E-18d083fc-aa5a",
+            "name": "1048机巷",
+            "category": 3
+        },
+        {
+            "id": "E-c3d5bc61-8efa",
+            "name": "开切眼掘进工作面",
+            "category": 3
+        },
+        {
+            "id": "E-137ac197-adcb",
+            "name": "590M大巷",
+            "category": 3
+        },
+        {
+            "id": "E-0d6bcf53-b169",
+            "name": "2003年5月13日16时03分",
+            "category": 1
+        },
+        {
+            "id": "E-250be245-9c03",
+            "name": "芦岭煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-046c8b1e-9e76",
+            "name": "芦岭煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-f1e761af-8a70",
+            "name": "生产安全事故",
+            "category": 0
+        },
+        {
+            "id": "E-7555b332-a9e1",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-c9b82608-ab1d",
+            "name": "一分区回风巷",
+            "category": 3
+        },
+        {
+            "id": "E-1eca1eed-b2fc",
+            "name": "三四采区",
+            "category": 3
+        },
+        {
+            "id": "E-e93a7084-9737",
+            "name": "2020年11月12日22时",
+            "category": 1
+        },
+        {
+            "id": "E-78d34ffb-af7f",
+            "name": "金凤煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-29adf07a-9e68",
+            "name": "金凤煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-ee31e186-9e3e",
+            "name": "金凤煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-f42c4241-a97e",
+            "name": "生产安全事故",
+            "category": 0
+        },
+        {
+            "id": "E-020f6bc1-b49b",
+            "name": "3人",
+            "category": 5
+        },
+        {
+            "id": "E-9e5fe84a-b62d",
+            "name": "曲阜市",
+            "category": 4
+        },
+        {
+            "id": "E-6f5927e9-8a43",
+            "name": "2014年8月23日10时15分许",
+            "category": 1
+        },
+        {
+            "id": "E-3618c61e-92e8",
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": "E-1acb0592-9b5d",
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": "E-152fec12-9cc2",
+            "name": "14采区",
+            "category": 3
+        },
+        {
+            "id": "E-05a001f1-bc73",
+            "name": "宜宾市",
+            "category": 4
+        },
+        {
+            "id": "E-71a6470b-9866",
+            "name": "2019年3月13日19时19分",
+            "category": 1
+        },
+        {
+            "id": "E-619c1d46-9c64",
+            "name": "鲁班山北矿",
+            "category": 2
+        },
+        {
+            "id": "E-e86693e3-9b14",
+            "name": "鲁班山北矿",
+            "category": 2
+        },
+        {
+            "id": "E-4ab3c90d-a214",
+            "name": "马蒂尔机尾滚筒损坏事故",
+            "category": 0
+        },
+        {
+            "id": "E-137b85ca-a92d",
+            "name": "81502工作面",
+            "category": 3
+        },
+        {
+            "id": "E-e678e021-bf35",
+            "name": "81502工作面",
+            "category": 3
+        },
+        {
+            "id": "E-9131350e-b994",
+            "name": "2011年9月6日",
+            "category": 1
+        },
+        {
+            "id": "E-4d6953db-9c3e",
+            "name": "81502工作面",
+            "category": 1
+        },
+        {
+            "id": "E-346b9890-bd4d",
+            "name": "2011年9月6日早班9时30分左右",
+            "category": 1
+        },
+        {
+            "id": "E-478fa4b0-b76a",
+            "name": "保德矿",
+            "category": 2
+        },
+        {
+            "id": "E-9385635e-9e64",
+            "name": "运输事故",
+            "category": 0
+        },
+        {
+            "id": "E-f916be8b-9a5e",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-c51ee2ae-84ce",
+            "name": "广西罗城",
+            "category": 4
+        },
+        {
+            "id": "E-76d8d214-bb63",
+            "name": "2020年12月23日16：35左右",
+            "category": 1
+        },
+        {
+            "id": "E-2e5119fb-8bb0",
+            "name": "北陵山煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-135e7f14-863a",
+            "name": "北陵山煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-9301573a-a08a",
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": "E-d844beec-83fe",
+            "name": "2人",
+            "category": 5
+        },
+        {
+            "id": "E-6036881b-a79a",
+            "name": "冷水江市",
+            "category": 4
+        },
+        {
+            "id": "E-26305cbc-b93a",
+            "name": "2008年12月27日13时10分",
+            "category": 1
+        },
+        {
+            "id": "E-3d636f9f-929f",
+            "name": "150m南翼回风巷",
+            "category": 1
+        },
+        {
+            "id": "E-4a0c01ee-8cc8",
+            "name": "1983年",
+            "category": 1
+        },
+        {
+            "id": "E-514c81de-9440",
+            "name": "金盆岭煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-e5cb70d1-96bd",
+            "name": "金盆岭煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-583b9f98-a384",
+            "name": "冒顶事故",
+            "category": 0
+        },
+        {
+            "id": "E-44b1c345-ad30",
+            "name": "3人",
+            "category": 5
+        },
+        {
+            "id": "E-d24f2c40-a67c",
+            "name": "新井措施巷",
+            "category": 3
+        },
+        {
+            "id": "E-c56a437b-af7a",
+            "name": "象山新井措施巷",
+            "category": 3
+        },
+        {
+            "id": "E-678cf7c7-a73a",
+            "name": "7月28日11时16分",
+            "category": 1
+        },
+        {
+            "id": "E-1877909e-b18f",
+            "name": "1993年7月19日",
+            "category": 1
+        },
+        {
+            "id": "E-ce1721be-89c7",
+            "name": "象山煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-e26c4536-93b6",
+            "name": "N2412综采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-e57f03d9-8d02",
+            "name": "N2412工作面",
+            "category": 3
+        },
+        {
+            "id": "E-30cc1b30-a514",
+            "name": "2009年1月14日四点",
+            "category": 1
+        },
+        {
+            "id": "E-2a72f38d-b34a",
+            "name": "22：00",
+            "category": 1
+        },
+        {
+            "id": "E-344d17f0-8f53",
+            "name": "伤亡事故",
+            "category": 0
+        },
+        {
+            "id": "E-e30e9651-b98e",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-8e008814-bda0",
+            "name": "选煤楼",
+            "category": 3
+        },
+        {
+            "id": "E-e594799e-9957",
+            "name": "2019年9月1日3时50分许",
+            "category": 1
+        },
+        {
+            "id": "E-b9dfae07-8b35",
+            "name": "海石湾煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-5ef0a8ee-8e4a",
+            "name": "海石湾煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-41740d1d-a8f4",
+            "name": "海石湾煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-d60e3ee6-b3e4",
+            "name": "瓦斯爆炸",
+            "category": 0
+        },
+        {
+            "id": "E-7a7e5a7e-8079",
+            "name": "瓦斯爆炸",
+            "category": 0
+        },
+        {
+            "id": "E-0c9429e8-873c",
+            "name": "4人",
+            "category": 5
+        },
+        {
+            "id": "E-8b92bdc6-8ce1",
+            "name": "624水平煤仓",
+            "category": 3
+        },
+        {
+            "id": "E-5910081f-8379",
+            "name": "624水平煤仓",
+            "category": 3
+        },
+        {
+            "id": "E-baf99109-a77c",
+            "name": "2001年11月18日9时50分",
+            "category": 1
+        },
+        {
+            "id": "E-ff86fd9b-97ca",
+            "name": "七五生建煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-25a915ed-b6b5",
+            "name": "七五生建煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-3c52b2c4-b0b8",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-d2a60baf-85cb",
+            "name": "煤与瓦斯突出事故",
+            "category": 0
+        },
+        {
+            "id": "E-1c9f7ec2-8f19",
+            "name": "18人",
+            "category": 5
+        },
+        {
+            "id": "E-550315d5-b974",
+            "name": "2152回采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-4b9b0b26-89b9",
+            "name": "湖南娄底市涟源市",
+            "category": 4
+        },
+        {
+            "id": "E-841b6b5c-b88c",
+            "name": "湖南娄底市涟源市",
+            "category": 4
+        },
+        {
+            "id": "E-09f8ac9a-a73c",
+            "name": "2008年",
+            "category": 1
+        },
+        {
+            "id": "E-16e34570-a647",
+            "name": "12月17日15时15分",
+            "category": 1
+        },
+        {
+            "id": "E-a76f52ec-a612",
+            "name": "挂子岩煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-d1fa28d9-bb2d",
+            "name": "挂子岩煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-7a7d25e4-a858",
+            "name": "水害事故",
+            "category": 0
+        },
+        {
+            "id": "E-9f323311-b5ee",
+            "name": "13人",
+            "category": 5
+        },
+        {
+            "id": "E-786841d7-b5d5",
+            "name": "常宁市",
+            "category": 4
+        },
+        {
+            "id": "E-56315766-9409",
+            "name": "2009年3月21日16时15分",
+            "category": 1
+        },
+        {
+            "id": "E-96f2af4b-a442",
+            "name": "三角塘镇企业办煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-9c8d6c34-8705",
+            "name": "透水事故",
+            "category": 0
+        },
+        {
+            "id": "E-f3839bad-affb",
+            "name": "13人",
+            "category": 5
+        },
+        {
+            "id": "E-32d32e34-8993",
+            "name": "乌海市",
+            "category": 4
+        },
+        {
+            "id": "E-bd2339c1-ba8a",
+            "name": " 2004年4月30日",
+            "category": 1
+        },
+        {
+            "id": "E-4aa01734-97eb",
+            "name": "鑫源煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-0cca3aa9-91e1",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-90869118-a31d",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-cd075bfa-97f8",
+            "name": "32人",
+            "category": 5
+        },
+        {
+            "id": "E-b4636c2d-8873",
+            "name": "云南省曲靖市富源县",
+            "category": 4
+        },
+        {
+            "id": "E-c6cedc81-bdd0",
+            "name": "2006年11月25日16时55分",
+            "category": 1
+        },
+        {
+            "id": "E-e6593b83-a748",
+            "name": "2003年7月",
+            "category": 1
+        },
+        {
+            "id": "E-a2cb0022-89d4",
+            "name": "2004年3月",
+            "category": 1
+        },
+        {
+            "id": "E-f65edbda-a464",
+            "name": "2005年12月",
+            "category": 1
+        },
+        {
+            "id": "E-29cf89a7-a1ce",
+            "name": "昌源煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-89aada55-a925",
+            "name": "昌源煤",
+            "category": 2
+        },
+        {
+            "id": "E-b89baa0b-8ff9",
+            "name": "昌源煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-efde2b65-967c",
+            "name": "洪水倒灌淹井事故",
+            "category": 0
+        },
+        {
+            "id": "E-c6dbe5ca-99de",
+            "name": "大竹县",
+            "category": 4
+        },
+        {
+            "id": "E-618c4ac9-ba59",
+            "name": "2021年8月8日5时15分",
+            "category": 1
+        },
+        {
+            "id": "E-cc19b2fb-9567",
+            "name": "大枫树煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-dfc7bfa5-aa0c",
+            "name": "大枫树煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-3ce28cd7-9d56",
+            "name": "掘锚机截割头漏油事故",
+            "category": 0
+        },
+        {
+            "id": "E-78d4375a-bd7b",
+            "name": "22113运顺",
+            "category": 3
+        },
+        {
+            "id": "E-5b291def-b02c",
+            "name": "2011年5月26日",
+            "category": 1
+        },
+        {
+            "id": "E-bf1a6ea0-b5a9",
+            "name": "寸草塔二矿",
+            "category": 2
+        },
+        {
+            "id": "E-e4cd8b9b-81bd",
+            "name": "采煤机电气故障",
+            "category": 0
+        },
+        {
+            "id": "E-f8a9d7a9-a6a2",
+            "name": "43306面",
+            "category": 3
+        },
+        {
+            "id": "E-f93529d0-8624",
+            "name": "43306综采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-4653b95d-9f89",
+            "name": "43306工作面",
+            "category": 3
+        },
+        {
+            "id": "E-eadafd3e-87d5",
+            "name": "43306工作面",
+            "category": 3
+        },
+        {
+            "id": "E-018d1916-a107",
+            "name": "2011年7月5日",
+            "category": 1
+        },
+        {
+            "id": "E-e4a34b67-84ff",
+            "name": "7月5日凌晨1：30",
+            "category": 1
+        },
+        {
+            "id": "E-5ea45f1b-aa17",
+            "name": "07：20分",
+            "category": 1
+        },
+        {
+            "id": "E-357a5332-8311",
+            "name": "09:40",
+            "category": 1
+        },
+        {
+            "id": "E-46d6b87a-9048",
+            "name": "榆家梁矿",
+            "category": 2
+        },
+        {
+            "id": "E-5036e688-993a",
+            "name": "榆家梁煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-d8be63de-b92d",
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": "E-fb1fde78-b9bc",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-06a84606-af3b",
+            "name": "Z14-2W01综采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-f3e346cd-acf3",
+            "name": "Z14-2W01综采工作面回风顺槽",
+            "category": 3
+        },
+        {
+            "id": "E-02b2d570-a07c",
+            "name": "托克逊县",
+            "category": 4
+        },
+        {
+            "id": "E-39bdaf39-932e",
+            "name": "2022年2月11日21时35分",
+            "category": 1
+        },
+        {
+            "id": "E-2edf2a65-a9e6",
+            "name": "盘吉煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-726d0d34-9240",
+            "name": "突水事故",
+            "category": 0
+        },
+        {
+            "id": "E-c8209fe6-bf8d",
+            "name": "11人",
+            "category": 5
+        },
+        {
+            "id": "E-41e4b420-99a8",
+            "name": "六平巷",
+            "category": 3
+        },
+        {
+            "id": "E-f999a98e-9823",
+            "name": "湖南省邵阳市邵东县",
+            "category": 4
+        },
+        {
+            "id": "E-262909af-93d2",
+            "name": "2002年6月22日11时50分",
+            "category": 1
+        },
+        {
+            "id": "E-10a8c920-a3c7",
+            "name": "溃水溃沙事故",
+            "category": 0
+        },
+        {
+            "id": "E-c494317a-8777",
+            "name": "22402工作面",
+            "category": 3
+        },
+        {
+            "id": "E-1906fa96-a1c3",
+            "name": "22402工作面",
+            "category": 3
+        },
+        {
+            "id": "E-e9494532-a6fb",
+            "name": "四盘区",
+            "category": 3
+        },
+        {
+            "id": "E-9104966d-91a6",
+            "name": "22402综采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-49edd317-8b1e",
+            "name": "22403工作面",
+            "category": 3
+        },
+        {
+            "id": "E-54240643-b3b0",
+            "name": "22401工作面",
+            "category": 3
+        },
+        {
+            "id": "E-8066662e-8c7b",
+            "name": "22402旺采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-75400b80-ae10",
+            "name": "2010年7月6日",
+            "category": 1
+        },
+        {
+            "id": "E-656e68d9-b798",
+            "name": "哈拉沟煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-509f7df6-8d61",
+            "name": "哈拉沟煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-a9826757-a486",
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": "E-a8386bc5-a7ef",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-6250a2bc-ade7",
+            "name": "106m水平四石门探煤上山工作面",
+            "category": 3
+        },
+        {
+            "id": "E-999e9863-a251",
+            "name": "嘉禾县",
+            "category": 4
+        },
+        {
+            "id": "E-8dc64470-88ac",
+            "name": "嘉禾县",
+            "category": 4
+        },
+        {
+            "id": "E-5788df3a-9f5b",
+            "name": "嘉禾县",
+            "category": 4
+        },
+        {
+            "id": "E-5e64bd81-a2a3",
+            "name": "2010年11月29日19时30分。",
+            "category": 1
+        },
+        {
+            "id": "E-061851f1-b2fb",
+            "name": "白石葫煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-be5e33f5-bf56",
+            "name": "白石葫煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-6c6f99f6-85f0",
+            "name": "运输事故",
+            "category": 0
+        },
+        {
+            "id": "E-eb7aa3e9-84c0",
+            "name": "机\n电事故",
+            "category": 0
+        },
+        {
+            "id": "E-464332a1-bcce",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-ce48fbaf-8ad0",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-dda3618f-aa18",
+            "name": "15103回采工作面回风顺槽",
+            "category": 3
+        },
+        {
+            "id": "E-c7652bc6-8046",
+            "name": "15105综采工作面",
+            "category": 3
+        },
+        {
+            "id": "E-53abf9be-96cb",
+            "name": "2018年8月12日10时10分左右",
+            "category": 1
+        },
+        {
+            "id": "E-675a950e-816c",
+            "name": "2018年8月19日23时10分",
+            "category": 1
+        },
+        {
+            "id": "E-c8d2f7be-8820",
+            "name": "恒泰皇后煤业",
+            "category": 2
+        },
+        {
+            "id": "E-f02fba09-ae4e",
+            "name": "恒泰皇后煤业",
+            "category": 2
+        },
+        {
+            "id": "E-64f98d87-9148",
+            "name": "恒泰皇后煤业",
+            "category": 2
+        },
+        {
+            "id": "E-070e63d7-a85c",
+            "name": "倒链滑落伤人事故",
+            "category": 0
+        },
+        {
+            "id": "E-122fb583-b85f",
+            "name": "2008年2月7日",
+            "category": 1
+        },
+        {
+            "id": "E-a6d3a118-a7bd",
+            "name": "瓦斯爆炸事故",
+            "category": 0
+        },
+        {
+            "id": "E-6d3f4d6b-adca",
+            "name": "九名",
+            "category": 5
+        },
+        {
+            "id": "E-ac017e50-a41d",
+            "name": "2003年10月12日22时40分",
+            "category": 1
+        },
+        {
+            "id": "E-a49630c5-b738",
+            "name": "太来窑二号井",
+            "category": 2
+        },
+        {
+            "id": "E-35e11abe-a418",
+            "name": "放炮事故",
+            "category": 0
+        },
+        {
+            "id": "E-8a3a0bf7-ada3",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-da8ff547-a3a1",
+            "name": "12采区",
+            "category": 3
+        },
+        {
+            "id": "E-01c7d634-b441",
+            "name": "65石门掘进工作面",
+            "category": 3
+        },
+        {
+            "id": "E-585df038-8722",
+            "name": "新化县",
+            "category": 4
+        },
+        {
+            "id": "E-8fd0623b-b872",
+            "name": "新化县",
+            "category": 4
+        },
+        {
+            "id": "E-f6498f6d-8d00",
+            "name": "2009年4月6日15时55分",
+            "category": 1
+        },
+        {
+            "id": "E-31f4fb00-b4b6",
+            "name": "1984年",
+            "category": 1
+        },
+        {
+            "id": "E-674c3c8e-9008",
+            "name": "2006年4月",
+            "category": 1
+        },
+        {
+            "id": "E-e0793cc1-b8c6",
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": "E-24a2e2e9-8caa",
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": "E-8778fac1-90f5",
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": "E-f66d3b77-8936",
+            "name": "芦茅江煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-adcabb30-9752",
+            "name": "涟邵矿务局芦茅江煤矿二井",
+            "category": 2
+        },
+        {
+            "id": "E-1de9a434-a35b",
+            "name": "芦一井",
+            "category": 2
+        },
+        {
+            "id": "E-dd701667-9b1e",
+            "name": "芦二井",
+            "category": 2
+        },
+        {
+            "id": "E-da233a63-8a29",
+            "name": "东翼回风大巷",
+            "category": 3
+        },
+        {
+            "id": "E-6f6520ff-aa79",
+            "name": "东翼回风大巷",
+            "category": 3
+        },
+        {
+            "id": "E-4d357b94-a4cd",
+            "name": "吕梁汾阳市",
+            "category": 4
+        },
+        {
+            "id": "E-ad32bd4d-8415",
+            "name": "正升煤业",
+            "category": 2
+        },
+        {
+            "id": "E-2ab23cd8-85a2",
+            "name": "3B提升机过卷事故",
+            "category": 0
+        },
+        {
+            "id": "E-2c83c593-9b1b",
+            "name": "主井",
+            "category": 3
+        },
+        {
+            "id": "E-4d55ee07-947b",
+            "name": "1982年10月18日",
+            "category": 1
+        },
+        {
+            "id": "E-b386f4d9-885f",
+            "name": "1982年10月18日",
+            "category": 1
+        },
+        {
+            "id": "E-53f995c5-a847",
+            "name": "兴隆庄煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-3357179e-9509",
+            "name": "兴隆庄煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-8380ccc1-9ac0",
+            "name": "顶板事故",
+            "category": 0
+        },
+        {
+            "id": "E-1495df41-88ae",
+            "name": "2004.7.12",
+            "category": 1
+        },
+        {
+            "id": "E-029094e0-96d5",
+            "name": "2004年7月12日",
+            "category": 1
+        },
+        {
+            "id": "E-ffc89ef6-8db0",
+            "name": "大平矿",
+            "category": 2
+        },
+        {
+            "id": "E-efb22b21-89c5",
+            "name": "溺水事故",
+            "category": 0
+        },
+        {
+            "id": "E-1bba966d-8baf",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-ebf32358-90ca",
+            "name": "4105皮带顺槽",
+            "category": 3
+        },
+        {
+            "id": "E-46233863-a6ac",
+            "name": "合山市",
+            "category": 4
+        },
+        {
+            "id": "E-9df2f88a-89d3",
+            "name": "2020年10月09日8时07分",
+            "category": 1
+        },
+        {
+            "id": "E-cf29b370-9072",
+            "name": "贵能三矿",
+            "category": 2
+        },
+        {
+            "id": "E-6bf7afb0-9b9d",
+            "name": "贵能三矿",
+            "category": 2
+        },
+        {
+            "id": "E-b8b96a4f-8f60",
+            "name": "木石煤矿",
+            "category": 0
+        },
+        {
+            "id": "E-bc0dd2c4-bb51",
+            "name": "特大溃水事故",
+            "category": 0
+        },
+        {
+            "id": "E-7beb09fa-bfc2",
+            "name": "山东枣庄滕州市",
+            "category": 4
+        },
+        {
+            "id": "E-b9fbfa7b-a5d2",
+            "name": "2003年7月26日21时40分",
+            "category": 1
+        },
+        {
+            "id": "E-a3ca8c74-92e2",
+            "name": "木石煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-73ce349a-88fa",
+            "name": "冒顶事故",
+            "category": 0
+        },
+        {
+            "id": "E-b27b8472-bad2",
+            "name": "冒顶事故",
+            "category": 0
+        },
+        {
+            "id": "E-d28086c6-8673",
+            "name": "3人",
+            "category": 5
+        },
+        {
+            "id": "E-b6384cd5-9fa6",
+            "name": "西大巷",
+            "category": 3
+        },
+        {
+            "id": "E-bee7cf12-917b",
+            "name": "2003年4月4日4时42分",
+            "category": 1
+        },
+        {
+            "id": "E-3b4f779b-8a95",
+            "name": "古汉山煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-d1d5aae7-8dcb",
+            "name": "古汉山矿",
+            "category": 2
+        },
+        {
+            "id": "E-8e9cc424-ac0b",
+            "name": "突水事故",
+            "category": 0
+        },
+        {
+            "id": "E-6fca96bf-9730",
+            "name": "东大巷",
+            "category": 3
+        },
+        {
+            "id": "E-194f86d0-9ef8",
+            "name": "2005年10月19日",
+            "category": 1
+        },
+        {
+            "id": "E-a5050f25-823a",
+            "name": "新峰一矿",
+            "category": 2
+        },
+        {
+            "id": "E-0c489ba4-8010",
+            "name": "运输事故",
+            "category": 0
+        },
+        {
+            "id": "E-9ad2bb95-b438",
+            "name": "1人",
+            "category": 5
+        },
+        {
+            "id": "E-25c1b804-996f",
+            "name": "2022年11月28日17时37分",
+            "category": 1
+        },
+        {
+            "id": "E-21e55277-97bd",
+            "name": "新庄煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-844ff660-941f",
+            "name": "新庄煤矿",
+            "category": 2
+        },
+        {
+            "id": "E-fbbd4527-bdd9",
+            "name": "煤与瓦斯突出事故",
+            "category": 0
+        },
+        {
+            "id": "E-8aae0b71-bdf5",
+            "name": "贵州省六盘水市",
+            "category": 4
+        },
+        {
+            "id": "E-9e9257fb-9338",
+            "name": "8月14日21时30分",
+            "category": 1
+        },
+        {
+            "id": "E-f175bafe-ae50",
+            "name": "过河口煤矿",
+            "category": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-78ac305c-bae5"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-08ba3005-a602"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-23565f4c-b438"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-9c68ff24-afbe"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-f101c9c0-af4f"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-99eec153-a7e7"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-78ac305c-bae5"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-08ba3005-a602"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-23565f4c-b438"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-9c68ff24-afbe"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-f101c9c0-af4f"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-99eec153-a7e7"
+        },
+        {
+            "source": "E-c881ddc2-992a",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-759bb48c-9555",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-725b345a-8058",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-1c179849-b810",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-2528d5b0-9942",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-7a439942-9c79",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-d7f99cef-875b",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-b784643f-9953",
+            "target": "E-5d66a458-ab34"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-3454c0b4-bde6"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-3454c0b4-bde6"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-12ed3699-b5d7"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-0cd922a1-88df"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-12ed3699-b5d7"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-0cd922a1-88df"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-c881ddc2-992a"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-759bb48c-9555"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-725b345a-8058"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-1c179849-b810"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-2528d5b0-9942"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-7a439942-9c79"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-d7f99cef-875b"
+        },
+        {
+            "source": "E-fa122114-99ab",
+            "target": "E-b784643f-9953"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-c881ddc2-992a"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-759bb48c-9555"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-725b345a-8058"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-1c179849-b810"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-2528d5b0-9942"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-7a439942-9c79"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-d7f99cef-875b"
+        },
+        {
+            "source": "E-738a85e9-857f",
+            "target": "E-b784643f-9953"
+        },
+        {
+            "source": "E-3454c0b4-bde6",
+            "target": "E-12ed3699-b5d7"
+        },
+        {
+            "source": "E-3454c0b4-bde6",
+            "target": "E-0cd922a1-88df"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-d7ad2d93-baf0"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-b9711fb1-8d88"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-6940a7c6-8c39"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-d7ad2d93-baf0"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-b9711fb1-8d88"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-6940a7c6-8c39"
+        },
+        {
+            "source": "E-3dc5d250-9035",
+            "target": "E-870a6e7d-8659"
+        },
+        {
+            "source": "E-3dc5d250-9035",
+            "target": "E-09beb9c9-9303"
+        },
+        {
+            "source": "E-3dc5d250-9035",
+            "target": "E-8d9539bd-97c5"
+        },
+        {
+            "source": "E-c1cf7879-accf",
+            "target": "E-870a6e7d-8659"
+        },
+        {
+            "source": "E-c1cf7879-accf",
+            "target": "E-09beb9c9-9303"
+        },
+        {
+            "source": "E-c1cf7879-accf",
+            "target": "E-8d9539bd-97c5"
+        },
+        {
+            "source": "E-2908592a-9f2c",
+            "target": "E-870a6e7d-8659"
+        },
+        {
+            "source": "E-2908592a-9f2c",
+            "target": "E-09beb9c9-9303"
+        },
+        {
+            "source": "E-2908592a-9f2c",
+            "target": "E-8d9539bd-97c5"
+        },
+        {
+            "source": "E-ba17817b-8622",
+            "target": "E-870a6e7d-8659"
+        },
+        {
+            "source": "E-ba17817b-8622",
+            "target": "E-09beb9c9-9303"
+        },
+        {
+            "source": "E-ba17817b-8622",
+            "target": "E-8d9539bd-97c5"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-78aca38c-a71d"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-78aca38c-a71d"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-3dc5d250-9035"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-c1cf7879-accf"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-2908592a-9f2c"
+        },
+        {
+            "source": "E-238975fe-af3b",
+            "target": "E-ba17817b-8622"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-3dc5d250-9035"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-c1cf7879-accf"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-2908592a-9f2c"
+        },
+        {
+            "source": "E-042d03cc-b155",
+            "target": "E-ba17817b-8622"
+        },
+        {
+            "source": "E-31999d0b-98d1",
+            "target": "E-bc89251b-96d2"
+        },
+        {
+            "source": "E-31999d0b-98d1",
+            "target": "E-23f7fb04-beba"
+        },
+        {
+            "source": "E-31999d0b-98d1",
+            "target": "E-1aed3268-a554"
+        },
+        {
+            "source": "E-31999d0b-98d1",
+            "target": "E-ad4bd31b-b80e"
+        },
+        {
+            "source": "E-9e49403c-b1fe",
+            "target": "E-18594ff1-b196"
+        },
+        {
+            "source": "E-9e49403c-b1fe",
+            "target": "E-da6f3743-b6df"
+        },
+        {
+            "source": "E-9e49403c-b1fe",
+            "target": "E-e4523f55-9c8b"
+        },
+        {
+            "source": "E-9e49403c-b1fe",
+            "target": "E-8ff7b6ec-bcfb"
+        },
+        {
+            "source": "E-88166bdf-a2a9",
+            "target": "E-1c622582-9d47"
+        },
+        {
+            "source": "E-88166bdf-a2a9",
+            "target": "E-b4d57c72-8b3e"
+        },
+        {
+            "source": "E-7b1e293e-837e",
+            "target": "E-1c622582-9d47"
+        },
+        {
+            "source": "E-7b1e293e-837e",
+            "target": "E-b4d57c72-8b3e"
+        },
+        {
+            "source": "E-1cf34d80-bacc",
+            "target": "E-befc06dd-b11a"
+        },
+        {
+            "source": "E-84965020-9e80",
+            "target": "E-befc06dd-b11a"
+        },
+        {
+            "source": "E-88166bdf-a2a9",
+            "target": "E-b9197e13-9764"
+        },
+        {
+            "source": "E-88166bdf-a2a9",
+            "target": "E-db5cf272-8b63"
+        },
+        {
+            "source": "E-7b1e293e-837e",
+            "target": "E-b9197e13-9764"
+        },
+        {
+            "source": "E-7b1e293e-837e",
+            "target": "E-db5cf272-8b63"
+        },
+        {
+            "source": "E-88166bdf-a2a9",
+            "target": "E-1cf34d80-bacc"
+        },
+        {
+            "source": "E-88166bdf-a2a9",
+            "target": "E-84965020-9e80"
+        },
+        {
+            "source": "E-7b1e293e-837e",
+            "target": "E-1cf34d80-bacc"
+        },
+        {
+            "source": "E-7b1e293e-837e",
+            "target": "E-84965020-9e80"
+        },
+        {
+            "source": "E-d082e575-8083",
+            "target": "E-723026fb-bb08"
+        },
+        {
+            "source": "E-54c9f43c-b5a0",
+            "target": "E-723026fb-bb08"
+        },
+        {
+            "source": "E-d082e575-8083",
+            "target": "E-327e2a6b-ac4f"
+        },
+        {
+            "source": "E-54c9f43c-b5a0",
+            "target": "E-327e2a6b-ac4f"
+        },
+        {
+            "source": "E-d082e575-8083",
+            "target": "E-d5d2ff01-807f"
+        },
+        {
+            "source": "E-d082e575-8083",
+            "target": "E-405cdc48-95ad"
+        },
+        {
+            "source": "E-54c9f43c-b5a0",
+            "target": "E-d5d2ff01-807f"
+        },
+        {
+            "source": "E-54c9f43c-b5a0",
+            "target": "E-405cdc48-95ad"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-0d6bcf53-b169"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-0d6bcf53-b169"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-0d6bcf53-b169"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-5422e7b8-9a21"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-f81009eb-9baf"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-738804a1-84a3"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-4ba9db14-a00c"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-42cf8234-980c"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-87e1f7bb-be3a"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-491e7812-afbc"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-9f9bae30-b7a5"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-31649da5-ab63"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-52a26660-965d"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-5fc55e7e-86ec"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-18d083fc-aa5a"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-c3d5bc61-8efa"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-137ac197-adcb"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-5422e7b8-9a21"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-f81009eb-9baf"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-738804a1-84a3"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-4ba9db14-a00c"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-42cf8234-980c"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-87e1f7bb-be3a"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-491e7812-afbc"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-9f9bae30-b7a5"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-31649da5-ab63"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-52a26660-965d"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-5fc55e7e-86ec"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-18d083fc-aa5a"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-c3d5bc61-8efa"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-137ac197-adcb"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-5422e7b8-9a21"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-f81009eb-9baf"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-738804a1-84a3"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-4ba9db14-a00c"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-42cf8234-980c"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-87e1f7bb-be3a"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-491e7812-afbc"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-9f9bae30-b7a5"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-31649da5-ab63"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-52a26660-965d"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-5fc55e7e-86ec"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-18d083fc-aa5a"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-c3d5bc61-8efa"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-137ac197-adcb"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-250be245-9c03"
+        },
+        {
+            "source": "E-cc2a23f7-b2b4",
+            "target": "E-046c8b1e-9e76"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-250be245-9c03"
+        },
+        {
+            "source": "E-76b17947-be73",
+            "target": "E-046c8b1e-9e76"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-250be245-9c03"
+        },
+        {
+            "source": "E-3f8854f4-819c",
+            "target": "E-046c8b1e-9e76"
+        },
+        {
+            "source": "E-5422e7b8-9a21",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-5422e7b8-9a21",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-f81009eb-9baf",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-f81009eb-9baf",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-738804a1-84a3",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-738804a1-84a3",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-4ba9db14-a00c",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-4ba9db14-a00c",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-42cf8234-980c",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-42cf8234-980c",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-87e1f7bb-be3a",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-87e1f7bb-be3a",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-491e7812-afbc",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-491e7812-afbc",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-9f9bae30-b7a5",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-9f9bae30-b7a5",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-31649da5-ab63",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-31649da5-ab63",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-52a26660-965d",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-52a26660-965d",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-5fc55e7e-86ec",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-5fc55e7e-86ec",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-18d083fc-aa5a",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-18d083fc-aa5a",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-c3d5bc61-8efa",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-c3d5bc61-8efa",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-137ac197-adcb",
+            "target": "E-efd11ac5-8086"
+        },
+        {
+            "source": "E-137ac197-adcb",
+            "target": "E-c6175a6f-a3c4"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-e93a7084-9737"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-c9b82608-ab1d"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-1eca1eed-b2fc"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-7555b332-a9e1"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-78d34ffb-af7f"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-29adf07a-9e68"
+        },
+        {
+            "source": "E-f1e761af-8a70",
+            "target": "E-ee31e186-9e3e"
+        },
+        {
+            "source": "E-c9b82608-ab1d",
+            "target": "E-7555b332-a9e1"
+        },
+        {
+            "source": "E-1eca1eed-b2fc",
+            "target": "E-7555b332-a9e1"
+        },
+        {
+            "source": "E-f42c4241-a97e",
+            "target": "E-6f5927e9-8a43"
+        },
+        {
+            "source": "E-f42c4241-a97e",
+            "target": "E-020f6bc1-b49b"
+        },
+        {
+            "source": "E-3618c61e-92e8",
+            "target": "E-71a6470b-9866"
+        },
+        {
+            "source": "E-619c1d46-9c64",
+            "target": "E-05a001f1-bc73"
+        },
+        {
+            "source": "E-e86693e3-9b14",
+            "target": "E-05a001f1-bc73"
+        },
+        {
+            "source": "E-3618c61e-92e8",
+            "target": "E-152fec12-9cc2"
+        },
+        {
+            "source": "E-3618c61e-92e8",
+            "target": "E-1acb0592-9b5d"
+        },
+        {
+            "source": "E-3618c61e-92e8",
+            "target": "E-619c1d46-9c64"
+        },
+        {
+            "source": "E-3618c61e-92e8",
+            "target": "E-e86693e3-9b14"
+        },
+        {
+            "source": "E-152fec12-9cc2",
+            "target": "E-1acb0592-9b5d"
+        },
+        {
+            "source": "E-4ab3c90d-a214",
+            "target": "E-9131350e-b994"
+        },
+        {
+            "source": "E-4ab3c90d-a214",
+            "target": "E-4d6953db-9c3e"
+        },
+        {
+            "source": "E-4ab3c90d-a214",
+            "target": "E-346b9890-bd4d"
+        },
+        {
+            "source": "E-4ab3c90d-a214",
+            "target": "E-137b85ca-a92d"
+        },
+        {
+            "source": "E-4ab3c90d-a214",
+            "target": "E-e678e021-bf35"
+        },
+        {
+            "source": "E-4ab3c90d-a214",
+            "target": "E-478fa4b0-b76a"
+        },
+        {
+            "source": "E-9385635e-9e64",
+            "target": "E-76d8d214-bb63"
+        },
+        {
+            "source": "E-2e5119fb-8bb0",
+            "target": "E-c51ee2ae-84ce"
+        },
+        {
+            "source": "E-135e7f14-863a",
+            "target": "E-c51ee2ae-84ce"
+        },
+        {
+            "source": "E-9385635e-9e64",
+            "target": "E-f916be8b-9a5e"
+        },
+        {
+            "source": "E-9385635e-9e64",
+            "target": "E-2e5119fb-8bb0"
+        },
+        {
+            "source": "E-9385635e-9e64",
+            "target": "E-135e7f14-863a"
+        },
+        {
+            "source": "E-9301573a-a08a",
+            "target": "E-26305cbc-b93a"
+        },
+        {
+            "source": "E-9301573a-a08a",
+            "target": "E-3d636f9f-929f"
+        },
+        {
+            "source": "E-9301573a-a08a",
+            "target": "E-4a0c01ee-8cc8"
+        },
+        {
+            "source": "E-514c81de-9440",
+            "target": "E-6036881b-a79a"
+        },
+        {
+            "source": "E-e5cb70d1-96bd",
+            "target": "E-6036881b-a79a"
+        },
+        {
+            "source": "E-9301573a-a08a",
+            "target": "E-d844beec-83fe"
+        },
+        {
+            "source": "E-9301573a-a08a",
+            "target": "E-514c81de-9440"
+        },
+        {
+            "source": "E-9301573a-a08a",
+            "target": "E-e5cb70d1-96bd"
+        },
+        {
+            "source": "E-583b9f98-a384",
+            "target": "E-678cf7c7-a73a"
+        },
+        {
+            "source": "E-583b9f98-a384",
+            "target": "E-1877909e-b18f"
+        },
+        {
+            "source": "E-583b9f98-a384",
+            "target": "E-d24f2c40-a67c"
+        },
+        {
+            "source": "E-583b9f98-a384",
+            "target": "E-c56a437b-af7a"
+        },
+        {
+            "source": "E-583b9f98-a384",
+            "target": "E-44b1c345-ad30"
+        },
+        {
+            "source": "E-583b9f98-a384",
+            "target": "E-ce1721be-89c7"
+        },
+        {
+            "source": "E-d24f2c40-a67c",
+            "target": "E-44b1c345-ad30"
+        },
+        {
+            "source": "E-c56a437b-af7a",
+            "target": "E-44b1c345-ad30"
+        },
+        {
+            "source": "E-344d17f0-8f53",
+            "target": "E-e594799e-9957"
+        },
+        {
+            "source": "E-344d17f0-8f53",
+            "target": "E-8e008814-bda0"
+        },
+        {
+            "source": "E-344d17f0-8f53",
+            "target": "E-e30e9651-b98e"
+        },
+        {
+            "source": "E-344d17f0-8f53",
+            "target": "E-b9dfae07-8b35"
+        },
+        {
+            "source": "E-344d17f0-8f53",
+            "target": "E-5ef0a8ee-8e4a"
+        },
+        {
+            "source": "E-344d17f0-8f53",
+            "target": "E-41740d1d-a8f4"
+        },
+        {
+            "source": "E-8e008814-bda0",
+            "target": "E-e30e9651-b98e"
+        },
+        {
+            "source": "E-d60e3ee6-b3e4",
+            "target": "E-baf99109-a77c"
+        },
+        {
+            "source": "E-7a7e5a7e-8079",
+            "target": "E-baf99109-a77c"
+        },
+        {
+            "source": "E-d60e3ee6-b3e4",
+            "target": "E-8b92bdc6-8ce1"
+        },
+        {
+            "source": "E-d60e3ee6-b3e4",
+            "target": "E-5910081f-8379"
+        },
+        {
+            "source": "E-7a7e5a7e-8079",
+            "target": "E-8b92bdc6-8ce1"
+        },
+        {
+            "source": "E-7a7e5a7e-8079",
+            "target": "E-5910081f-8379"
+        },
+        {
+            "source": "E-d60e3ee6-b3e4",
+            "target": "E-0c9429e8-873c"
+        },
+        {
+            "source": "E-7a7e5a7e-8079",
+            "target": "E-0c9429e8-873c"
+        },
+        {
+            "source": "E-d60e3ee6-b3e4",
+            "target": "E-ff86fd9b-97ca"
+        },
+        {
+            "source": "E-d60e3ee6-b3e4",
+            "target": "E-25a915ed-b6b5"
+        },
+        {
+            "source": "E-7a7e5a7e-8079",
+            "target": "E-ff86fd9b-97ca"
+        },
+        {
+            "source": "E-7a7e5a7e-8079",
+            "target": "E-25a915ed-b6b5"
+        },
+        {
+            "source": "E-8b92bdc6-8ce1",
+            "target": "E-0c9429e8-873c"
+        },
+        {
+            "source": "E-5910081f-8379",
+            "target": "E-0c9429e8-873c"
+        },
+        {
+            "source": "E-3c52b2c4-b0b8",
+            "target": "E-09f8ac9a-a73c"
+        },
+        {
+            "source": "E-3c52b2c4-b0b8",
+            "target": "E-16e34570-a647"
+        },
+        {
+            "source": "E-d2a60baf-85cb",
+            "target": "E-09f8ac9a-a73c"
+        },
+        {
+            "source": "E-d2a60baf-85cb",
+            "target": "E-16e34570-a647"
+        },
+        {
+            "source": "E-a76f52ec-a612",
+            "target": "E-4b9b0b26-89b9"
+        },
+        {
+            "source": "E-a76f52ec-a612",
+            "target": "E-841b6b5c-b88c"
+        },
+        {
+            "source": "E-d1fa28d9-bb2d",
+            "target": "E-4b9b0b26-89b9"
+        },
+        {
+            "source": "E-d1fa28d9-bb2d",
+            "target": "E-841b6b5c-b88c"
+        },
+        {
+            "source": "E-3c52b2c4-b0b8",
+            "target": "E-550315d5-b974"
+        },
+        {
+            "source": "E-d2a60baf-85cb",
+            "target": "E-550315d5-b974"
+        },
+        {
+            "source": "E-3c52b2c4-b0b8",
+            "target": "E-1c9f7ec2-8f19"
+        },
+        {
+            "source": "E-d2a60baf-85cb",
+            "target": "E-1c9f7ec2-8f19"
+        },
+        {
+            "source": "E-3c52b2c4-b0b8",
+            "target": "E-a76f52ec-a612"
+        },
+        {
+            "source": "E-3c52b2c4-b0b8",
+            "target": "E-d1fa28d9-bb2d"
+        },
+        {
+            "source": "E-d2a60baf-85cb",
+            "target": "E-a76f52ec-a612"
+        },
+        {
+            "source": "E-d2a60baf-85cb",
+            "target": "E-d1fa28d9-bb2d"
+        },
+        {
+            "source": "E-550315d5-b974",
+            "target": "E-1c9f7ec2-8f19"
+        },
+        {
+            "source": "E-7a7d25e4-a858",
+            "target": "E-56315766-9409"
+        },
+        {
+            "source": "E-96f2af4b-a442",
+            "target": "E-786841d7-b5d5"
+        },
+        {
+            "source": "E-7a7d25e4-a858",
+            "target": "E-9f323311-b5ee"
+        },
+        {
+            "source": "E-7a7d25e4-a858",
+            "target": "E-96f2af4b-a442"
+        },
+        {
+            "source": "E-9c8d6c34-8705",
+            "target": "E-bd2339c1-ba8a"
+        },
+        {
+            "source": "E-4aa01734-97eb",
+            "target": "E-32d32e34-8993"
+        },
+        {
+            "source": "E-9c8d6c34-8705",
+            "target": "E-f3839bad-affb"
+        },
+        {
+            "source": "E-9c8d6c34-8705",
+            "target": "E-4aa01734-97eb"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-c6cedc81-bdd0"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-e6593b83-a748"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-a2cb0022-89d4"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-f65edbda-a464"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-c6cedc81-bdd0"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-e6593b83-a748"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-a2cb0022-89d4"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-f65edbda-a464"
+        },
+        {
+            "source": "E-29cf89a7-a1ce",
+            "target": "E-b4636c2d-8873"
+        },
+        {
+            "source": "E-89aada55-a925",
+            "target": "E-b4636c2d-8873"
+        },
+        {
+            "source": "E-b89baa0b-8ff9",
+            "target": "E-b4636c2d-8873"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-cd075bfa-97f8"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-cd075bfa-97f8"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-29cf89a7-a1ce"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-89aada55-a925"
+        },
+        {
+            "source": "E-0cca3aa9-91e1",
+            "target": "E-b89baa0b-8ff9"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-29cf89a7-a1ce"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-89aada55-a925"
+        },
+        {
+            "source": "E-90869118-a31d",
+            "target": "E-b89baa0b-8ff9"
+        },
+        {
+            "source": "E-efde2b65-967c",
+            "target": "E-618c4ac9-ba59"
+        },
+        {
+            "source": "E-cc19b2fb-9567",
+            "target": "E-c6dbe5ca-99de"
+        },
+        {
+            "source": "E-dfc7bfa5-aa0c",
+            "target": "E-c6dbe5ca-99de"
+        },
+        {
+            "source": "E-efde2b65-967c",
+            "target": "E-cc19b2fb-9567"
+        },
+        {
+            "source": "E-efde2b65-967c",
+            "target": "E-dfc7bfa5-aa0c"
+        },
+        {
+            "source": "E-3ce28cd7-9d56",
+            "target": "E-5b291def-b02c"
+        },
+        {
+            "source": "E-3ce28cd7-9d56",
+            "target": "E-78d4375a-bd7b"
+        },
+        {
+            "source": "E-3ce28cd7-9d56",
+            "target": "E-bf1a6ea0-b5a9"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-018d1916-a107"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-e4a34b67-84ff"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-5ea45f1b-aa17"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-357a5332-8311"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-f8a9d7a9-a6a2"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-f93529d0-8624"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-4653b95d-9f89"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-eadafd3e-87d5"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-46d6b87a-9048"
+        },
+        {
+            "source": "E-e4cd8b9b-81bd",
+            "target": "E-5036e688-993a"
+        },
+        {
+            "source": "E-d8be63de-b92d",
+            "target": "E-39bdaf39-932e"
+        },
+        {
+            "source": "E-2edf2a65-a9e6",
+            "target": "E-02b2d570-a07c"
+        },
+        {
+            "source": "E-d8be63de-b92d",
+            "target": "E-06a84606-af3b"
+        },
+        {
+            "source": "E-d8be63de-b92d",
+            "target": "E-f3e346cd-acf3"
+        },
+        {
+            "source": "E-d8be63de-b92d",
+            "target": "E-fb1fde78-b9bc"
+        },
+        {
+            "source": "E-d8be63de-b92d",
+            "target": "E-2edf2a65-a9e6"
+        },
+        {
+            "source": "E-06a84606-af3b",
+            "target": "E-fb1fde78-b9bc"
+        },
+        {
+            "source": "E-f3e346cd-acf3",
+            "target": "E-fb1fde78-b9bc"
+        },
+        {
+            "source": "E-726d0d34-9240",
+            "target": "E-262909af-93d2"
+        },
+        {
+            "source": "E-726d0d34-9240",
+            "target": "E-41e4b420-99a8"
+        },
+        {
+            "source": "E-726d0d34-9240",
+            "target": "E-c8209fe6-bf8d"
+        },
+        {
+            "source": "E-41e4b420-99a8",
+            "target": "E-c8209fe6-bf8d"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-75400b80-ae10"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-c494317a-8777"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-1906fa96-a1c3"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-e9494532-a6fb"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-9104966d-91a6"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-49edd317-8b1e"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-54240643-b3b0"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-8066662e-8c7b"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-656e68d9-b798"
+        },
+        {
+            "source": "E-10a8c920-a3c7",
+            "target": "E-509f7df6-8d61"
+        },
+        {
+            "source": "E-a9826757-a486",
+            "target": "E-5e64bd81-a2a3"
+        },
+        {
+            "source": "E-061851f1-b2fb",
+            "target": "E-999e9863-a251"
+        },
+        {
+            "source": "E-061851f1-b2fb",
+            "target": "E-8dc64470-88ac"
+        },
+        {
+            "source": "E-061851f1-b2fb",
+            "target": "E-5788df3a-9f5b"
+        },
+        {
+            "source": "E-be5e33f5-bf56",
+            "target": "E-999e9863-a251"
+        },
+        {
+            "source": "E-be5e33f5-bf56",
+            "target": "E-8dc64470-88ac"
+        },
+        {
+            "source": "E-be5e33f5-bf56",
+            "target": "E-5788df3a-9f5b"
+        },
+        {
+            "source": "E-a9826757-a486",
+            "target": "E-6250a2bc-ade7"
+        },
+        {
+            "source": "E-a9826757-a486",
+            "target": "E-a8386bc5-a7ef"
+        },
+        {
+            "source": "E-a9826757-a486",
+            "target": "E-061851f1-b2fb"
+        },
+        {
+            "source": "E-a9826757-a486",
+            "target": "E-be5e33f5-bf56"
+        },
+        {
+            "source": "E-6250a2bc-ade7",
+            "target": "E-a8386bc5-a7ef"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-53abf9be-96cb"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-675a950e-816c"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-53abf9be-96cb"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-675a950e-816c"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-dda3618f-aa18"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-c7652bc6-8046"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-dda3618f-aa18"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-c7652bc6-8046"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-464332a1-bcce"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-ce48fbaf-8ad0"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-464332a1-bcce"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-ce48fbaf-8ad0"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-c8d2f7be-8820"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-f02fba09-ae4e"
+        },
+        {
+            "source": "E-6c6f99f6-85f0",
+            "target": "E-64f98d87-9148"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-c8d2f7be-8820"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-f02fba09-ae4e"
+        },
+        {
+            "source": "E-eb7aa3e9-84c0",
+            "target": "E-64f98d87-9148"
+        },
+        {
+            "source": "E-dda3618f-aa18",
+            "target": "E-464332a1-bcce"
+        },
+        {
+            "source": "E-dda3618f-aa18",
+            "target": "E-ce48fbaf-8ad0"
+        },
+        {
+            "source": "E-c7652bc6-8046",
+            "target": "E-464332a1-bcce"
+        },
+        {
+            "source": "E-c7652bc6-8046",
+            "target": "E-ce48fbaf-8ad0"
+        },
+        {
+            "source": "E-070e63d7-a85c",
+            "target": "E-122fb583-b85f"
+        },
+        {
+            "source": "E-a6d3a118-a7bd",
+            "target": "E-ac017e50-a41d"
+        },
+        {
+            "source": "E-a6d3a118-a7bd",
+            "target": "E-6d3f4d6b-adca"
+        },
+        {
+            "source": "E-a6d3a118-a7bd",
+            "target": "E-a49630c5-b738"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-f6498f6d-8d00"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-31f4fb00-b4b6"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-674c3c8e-9008"
+        },
+        {
+            "source": "E-e0793cc1-b8c6",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-e0793cc1-b8c6",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-24a2e2e9-8caa",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-24a2e2e9-8caa",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-8778fac1-90f5",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-8778fac1-90f5",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-f66d3b77-8936",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-f66d3b77-8936",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-adcabb30-9752",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-adcabb30-9752",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-1de9a434-a35b",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-1de9a434-a35b",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-dd701667-9b1e",
+            "target": "E-585df038-8722"
+        },
+        {
+            "source": "E-dd701667-9b1e",
+            "target": "E-8fd0623b-b872"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-da8ff547-a3a1"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-01c7d634-b441"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-8a3a0bf7-ada3"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-e0793cc1-b8c6"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-24a2e2e9-8caa"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-8778fac1-90f5"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-f66d3b77-8936"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-adcabb30-9752"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-1de9a434-a35b"
+        },
+        {
+            "source": "E-35e11abe-a418",
+            "target": "E-dd701667-9b1e"
+        },
+        {
+            "source": "E-da8ff547-a3a1",
+            "target": "E-8a3a0bf7-ada3"
+        },
+        {
+            "source": "E-01c7d634-b441",
+            "target": "E-8a3a0bf7-ada3"
+        },
+        {
+            "source": "E-ad32bd4d-8415",
+            "target": "E-4d357b94-a4cd"
+        },
+        {
+            "source": "E-2ab23cd8-85a2",
+            "target": "E-4d55ee07-947b"
+        },
+        {
+            "source": "E-2ab23cd8-85a2",
+            "target": "E-b386f4d9-885f"
+        },
+        {
+            "source": "E-2ab23cd8-85a2",
+            "target": "E-2c83c593-9b1b"
+        },
+        {
+            "source": "E-2ab23cd8-85a2",
+            "target": "E-53f995c5-a847"
+        },
+        {
+            "source": "E-2ab23cd8-85a2",
+            "target": "E-3357179e-9509"
+        },
+        {
+            "source": "E-8380ccc1-9ac0",
+            "target": "E-1495df41-88ae"
+        },
+        {
+            "source": "E-8380ccc1-9ac0",
+            "target": "E-029094e0-96d5"
+        },
+        {
+            "source": "E-8380ccc1-9ac0",
+            "target": "E-ffc89ef6-8db0"
+        },
+        {
+            "source": "E-efb22b21-89c5",
+            "target": "E-9df2f88a-89d3"
+        },
+        {
+            "source": "E-cf29b370-9072",
+            "target": "E-46233863-a6ac"
+        },
+        {
+            "source": "E-6bf7afb0-9b9d",
+            "target": "E-46233863-a6ac"
+        },
+        {
+            "source": "E-efb22b21-89c5",
+            "target": "E-ebf32358-90ca"
+        },
+        {
+            "source": "E-efb22b21-89c5",
+            "target": "E-1bba966d-8baf"
+        },
+        {
+            "source": "E-efb22b21-89c5",
+            "target": "E-cf29b370-9072"
+        },
+        {
+            "source": "E-efb22b21-89c5",
+            "target": "E-6bf7afb0-9b9d"
+        },
+        {
+            "source": "E-ebf32358-90ca",
+            "target": "E-1bba966d-8baf"
+        },
+        {
+            "source": "E-b8b96a4f-8f60",
+            "target": "E-b9fbfa7b-a5d2"
+        },
+        {
+            "source": "E-bc0dd2c4-bb51",
+            "target": "E-b9fbfa7b-a5d2"
+        },
+        {
+            "source": "E-a3ca8c74-92e2",
+            "target": "E-7beb09fa-bfc2"
+        },
+        {
+            "source": "E-b8b96a4f-8f60",
+            "target": "E-a3ca8c74-92e2"
+        },
+        {
+            "source": "E-bc0dd2c4-bb51",
+            "target": "E-a3ca8c74-92e2"
+        },
+        {
+            "source": "E-73ce349a-88fa",
+            "target": "E-bee7cf12-917b"
+        },
+        {
+            "source": "E-b27b8472-bad2",
+            "target": "E-bee7cf12-917b"
+        },
+        {
+            "source": "E-73ce349a-88fa",
+            "target": "E-b6384cd5-9fa6"
+        },
+        {
+            "source": "E-b27b8472-bad2",
+            "target": "E-b6384cd5-9fa6"
+        },
+        {
+            "source": "E-73ce349a-88fa",
+            "target": "E-d28086c6-8673"
+        },
+        {
+            "source": "E-b27b8472-bad2",
+            "target": "E-d28086c6-8673"
+        },
+        {
+            "source": "E-73ce349a-88fa",
+            "target": "E-3b4f779b-8a95"
+        },
+        {
+            "source": "E-73ce349a-88fa",
+            "target": "E-d1d5aae7-8dcb"
+        },
+        {
+            "source": "E-b27b8472-bad2",
+            "target": "E-3b4f779b-8a95"
+        },
+        {
+            "source": "E-b27b8472-bad2",
+            "target": "E-d1d5aae7-8dcb"
+        },
+        {
+            "source": "E-b6384cd5-9fa6",
+            "target": "E-d28086c6-8673"
+        },
+        {
+            "source": "E-8e9cc424-ac0b",
+            "target": "E-194f86d0-9ef8"
+        },
+        {
+            "source": "E-8e9cc424-ac0b",
+            "target": "E-6fca96bf-9730"
+        },
+        {
+            "source": "E-8e9cc424-ac0b",
+            "target": "E-a5050f25-823a"
+        },
+        {
+            "source": "E-0c489ba4-8010",
+            "target": "E-25c1b804-996f"
+        },
+        {
+            "source": "E-0c489ba4-8010",
+            "target": "E-9ad2bb95-b438"
+        },
+        {
+            "source": "E-0c489ba4-8010",
+            "target": "E-21e55277-97bd"
+        },
+        {
+            "source": "E-0c489ba4-8010",
+            "target": "E-844ff660-941f"
+        },
+        {
+            "source": "E-fbbd4527-bdd9",
+            "target": "E-9e9257fb-9338"
+        },
+        {
+            "source": "E-f175bafe-ae50",
+            "target": "E-8aae0b71-bdf5"
+        },
+        {
+            "source": "E-fbbd4527-bdd9",
+            "target": "E-f175bafe-ae50"
+        }
+    ],
+    "categories": [
+        {
+            "name": "事故"
+        },
+        {
+            "name": "时间"
+        },
+        {
+            "name": "矿山"
+        },
+        {
+            "name": "位置"
+        },
+        {
+            "name": "城市"
+        },
+        {
+            "name": "伤亡"
+        }
+    ]
+}
