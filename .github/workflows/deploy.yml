@@ -1,35 +1,35 @@
-name: 部署
+# name: 部署
 
-on:
-  push:
-    branches: ["main"]
+# on:
+#   push:
+#     branches: ["main"]
     
-  workflow_dispatch:
+#   workflow_dispatch:
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
+#     timeout-minutes: 10
 
-    strategy:
-      matrix:
-        node-version: [18.x]
+#     strategy:
+#       matrix:
+#         node-version: [18.x]
 
-    steps:
-      - uses: actions/checkout@v3
+#     steps:
+#       - uses: actions/checkout@v3
 
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+#       - name: Use Node.js ${{ matrix.node-version }}
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: ${{ matrix.node-version }}
+#           cache: 'npm'
 
-      - name: 安装依赖
-        run: npm i
+#       - name: 安装依赖
+#         run: npm i
 
-      - name: 开始打包
-        run: npm run build --verbose
+#       - name: 开始打包
+#         run: npm run build --verbose
 
-      - name: 部署到 GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+#       - name: 部署到 GitHub Pages
+#         id: deployment
+#         uses: actions/deploy-pages@v4
