@@ -27,11 +27,6 @@ jobs:
       - name: 开始打包
         run: npm run build --verbose
 
-      - name: 部署
-        uses: easingthemes/ssh-deploy@v4.1.8
-        with:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          SOURCE: ./dist/*
-          TARGET: /home/ecs-user/digital-mine-fe
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
