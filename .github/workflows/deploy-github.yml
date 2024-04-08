@@ -19,6 +19,9 @@ jobs:
         with:
           node-version: "16.x"
 
+      - name: cache clean
+        run: npm cache clean --force
+
       - name: Install and run
         run: npm install
      
